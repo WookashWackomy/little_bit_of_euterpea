@@ -1,1 +1,1 @@
-# little_bit_of_euterpea
+# Euterpea2proj
